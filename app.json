@@ -2,7 +2,7 @@
     "name": "File_to_link_bot",
     "description": "Bot to provide links for different types of files.",
    
-    "repository": "https://github.com/KKK2504/File_to_Link_Bot",
+    "repository": "https://github.com/KKK2504/FileToLink_Bot",
     "env": {
           "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true}
     },
